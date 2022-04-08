@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+div{
+    border-radius: 8px;
+}
+.info1{
+    width:40%;
+    display: inline-block;
+    border: 1px solid;
+}
+.info2{
+    width:40%;
+    float:right;
+    border: 1px solid;   
+}
+#donutchart1{
+    border: 1px solid;
+    height:300px;
+}
+#firstcell{
+    width:30%;
+    height:90%;
+    display:inline-block;
+    margin-bottom: 15px;
+}
+.secondcell{
+    border: 1px solid;
+    width:65%;
+    height:70%;
+    float:right;
+    margin-bottom: 15px;
+}
+#linechart_material2{
+    height:410px;
+}
+.loangraph{
+    display: inline-block;
+    width:30%;
+}
+.depositgraph{
+    display: inline-block;
+    width:38%;
+}
+.growthgraph{
+    float: right;
+}
+.bargraph1{
+    display: inline-block;
+    width:33%;
+}
+.bargraph2{
+    display:inline-block;
+    width:33%;
+}
+.bargraph3{
+    float:right;
+    width:33%;
+}
